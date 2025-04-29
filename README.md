@@ -31,7 +31,7 @@ Qui sotto troverai alcuni dei miei progetti principali. Clicca sui titoli per es
 | **Churn Detection** | Predizione Churn tramite modelli ML | [🔗 Vai al progetto](https://github.com/Pastierno/my_repo/blob/main/env/projects/project_churn/churn_project.ipynb)  |
 | **Analisi Spotify**              | Analisi esplorativa di dataset complessi e visualizzazioni interattive | [🔗 Vai al progetto](https://github.com/Pastierno/MarcoPatierno_DepositoCorsoPython/tree/main/CorsoPython/Progetto%20di%20gruppo)        |
 | **Analisi telecomunicazioni**            | Esplorazione, Feature engineering, ML     | [🔗 Vai al progetto](https://github.com/Pastierno/MarcoPatierno_DepositoCorsoPython/tree/main/CorsoPython/Giorno%2017%2023%20-04/ESERCITAZIONE%20telecomunica)        |
-| **Analisi vendite**            | Web scraping e API per aggregazione dati in tempo reale          | [🔗 Vai al progetto](https://github.com/Pastierno/MarcoPatierno_DepositoCorsoPython/tree/main/CorsoPython/Giorno%2017%2023%20-04/ESERCITAZIONE%20vendite)        |
+| **Analisi vendite**            | Analisi dati vendite         | [🔗 Vai al progetto](https://github.com/Pastierno/MarcoPatierno_DepositoCorsoPython/blob/main/CorsoPython/Giorno%2017%2023-04/ESERCITAZIONE%20vendite/analisi_vendite.py)        |
 | **Visualizzazione**                    | Esempi di visualizzazione grafica             | [🔗 Vai al progetto](https://github.com/Pastierno/MarcoPatierno_DepositoCorsoPython/tree/main/CorsoPython/Giorno%2017%2023%20-04/ESERCITAZIONE%20visualizzazione)                  |
 
 ---
