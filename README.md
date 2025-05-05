@@ -40,7 +40,7 @@ Qui sotto troverai alcuni dei miei progetti principali. Clicca sui titoli per es
 
 - 📧 Email: [marcopatierno.m@gmail.com](mailto:marcopatierno.m@gmail.com)  
 - 📞 Telefono: +39 376 005 1659  
-- 🔗 LinkedIn: [Marco Patierno](www.linkedin.com/in/marco-patierno-a933a6352)  
+- 🔗 LinkedIn: [Link](www.linkedin.com/in/marco-patierno-a933a6352)  
 
 Sono sempre felice di discutere di nuovi progetti, collaborazioni o semplicemente fare networking.  
 > 🎯 _Non esitare a scrivermi per approfondire qualsiasi argomento!_
