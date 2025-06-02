@@ -22,7 +22,13 @@ Sono un appassionato di dati e tecnologie, con esperienza nella raccolta, pulizi
 
 ---
 
-## 📂 Progetti in evidenza
+## 📂 Portfolio Kaggle Competition - Data Analysis
+
+**Qui il mio portfolio con progetti di data analysis e kaggle competition** [https://github.com/Pastierno/project-data/tree/main]
+
+
+
+##  Progetti in evidenza
 
 Qui sotto troverai alcuni dei miei progetti principali. Clicca sui titoli per esplorare il codice, le live demo e le analisi dettagliate. Aggiungerò presto altri esempi pratici, quindi resta sintonizzato!
 
